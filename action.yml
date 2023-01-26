@@ -14,5 +14,5 @@ outputs:
     description: S3 prefix (path) for artifacts
 
 runs:
-  using: node12
+  using: node16
   main: index.js
